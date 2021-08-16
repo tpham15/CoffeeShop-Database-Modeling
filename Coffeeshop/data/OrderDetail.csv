@@ -1,0 +1,3 @@
+﻿ID,Product_ID,Price,Order_Number,Total_price,Order_ID,day_created
+2,1,"4,5",3,"13,5",1,NULL
+3,5,4,2,8,2,NULL

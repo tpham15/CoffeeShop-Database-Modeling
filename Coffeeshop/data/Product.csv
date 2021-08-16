@@ -1,0 +1,12 @@
+﻿ID,Product_Name,Description,Price,Category_id
+1,Espresso,NULL,"4,5",1
+2,Black Coffee,NULL,"3,5",1
+3,Latte,NULL,"5,5",1
+4,Mocha,NULL,5,1
+5,Coke,NULL,4,2
+6,7UP,NULL,4,2
+7,Soda,NULL,4,2
+8,Mango,NULL,"4,5",3
+9,Lemon,NULL,"4,5",3
+10,Orange,NULL,"4,5",3
+11,WaterMelon,NULL,"4,5",3
